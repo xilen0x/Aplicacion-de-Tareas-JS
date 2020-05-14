@@ -1,0 +1,12 @@
+body {
+    background-color: cadetblue;
+}
+#person{
+    width: 150px;
+    margin: 10px;
+    
+}
+.card{
+    margin-top: 10px;
+ /*   width: 60%;*/
+}
